@@ -24,4 +24,13 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(EXTRA_MESSAGE, message);
         startActivity(intent);
     }
+
+    /** Called when the user taps the Create button */
+    public void setupNewWorkout(View view){
+        Intent intent = new Intent(this, SetupWorkoutActivity.class);
+//        EditText editText = (EditText) findViewById(R.id.editText);
+//        String message = editText.getText().toString();
+//        intent.putExtra(EXTRA_MESSAGE, message);
+        startActivity(intent);
+    }
 }

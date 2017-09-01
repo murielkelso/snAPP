@@ -1,5 +1,13 @@
 <resources>
-    <string name="app_name">snAPP</string>
+    <string name="app_name">snAPP - The Weight Workout App</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="text_box_prompt">Name</string>
+    <string name="header_arms">Arms</string>
+    <string name="header_newWk">New Workout</string>
+    <string name="create_new_workout">Create</string>
+    <string name="title_activity_setup_workout">SetupWorkoutActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
 </resources>
