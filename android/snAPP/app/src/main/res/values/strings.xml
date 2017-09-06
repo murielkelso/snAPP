@@ -9,5 +9,8 @@
     <string name="title_activity_setup_workout">SetupWorkoutActivity</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
+    <string name="exercise_names_heading">Exercise Names</string>
+    <string name="exercise_reps_heading">Number of Repetitions</string>
+    <string name="exercise_settings_heading">Seat setting and Weight setting</string>
 
 </resources>
