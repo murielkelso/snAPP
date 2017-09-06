@@ -26,8 +26,8 @@
                 android:value=".MainActivity" />
         </activity>
         <activity
-            android:name=".SetupWorkoutActivity"
-            android:label="@string/title_activity_setup_workout"
+            android:name=".SetupNewWorkoutActivity"
+            android:label="@string/title_activity_setup_new_workout"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

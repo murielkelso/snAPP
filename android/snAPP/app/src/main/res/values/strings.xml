@@ -12,5 +12,6 @@
     <string name="exercise_names_heading">Exercise Names</string>
     <string name="exercise_reps_heading">Number of Repetitions</string>
     <string name="exercise_settings_heading">Seat setting and Weight setting</string>
+    <string name="title_activity_setup_new_workout">SetupNewWorkoutActivity</string>
 
 </resources>

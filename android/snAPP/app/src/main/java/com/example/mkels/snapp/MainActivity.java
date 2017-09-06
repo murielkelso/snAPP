@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
 
     /** Called when the user taps the Create button */
     public void setupNewWorkout(View view){
-        Intent intent = new Intent(this, SetupWorkoutActivity.class);
+        Intent intent = new Intent(this, SetupNewWorkoutActivity.class);
         EditText workoutNameText = (EditText) findViewById(R.id.workoutNameTextbox);
         String newWorkoutName = workoutNameText.getText().toString();
         intent.putExtra(EXTRA_WORKOUT_NAME, newWorkoutName);
